@@ -106,6 +106,6 @@ The McCabe-Thiele method is a fundamental design tool taught in every chemical e
 
 Aarya Mengle is a Chemical Engineering student at BITS Pilani Dubai with interests in process simulation, machine learning applications in chemical engineering, and process safety.
 
-🔗 LinkedIn
+🔗 www.linkedin.com/in/aarya-mengle
 🎓 BITS Pilani Dubai | B.E. Chemical Engineering (2025–2029)
 🏛️ AIChE Student Member
